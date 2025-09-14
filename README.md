@@ -1,5 +1,5 @@
-# [CSEN911] Data Mining - Winter 2024 Repository
-GUC Data Mining W2024. The official course repository for all the [CSEN911] Data Mining labs at the German University in Cairo.
+# [CSEN911] Data Mining - Winter 2025 Repository
+GUC Data Mining W2025. The official course repository for all the [CSEN911] Data Mining labs at the German University in Cairo.
 
 
 Click on the hyperlinks below to access a static version of the notebook (for quick reference), or click on the![Colab](https://colab.research.google.com/assets/colab-badge.svg) button to open an interactive version of the notebook on Google Colab.
