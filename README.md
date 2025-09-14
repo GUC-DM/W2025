@@ -47,7 +47,7 @@ Anaconda is a Python distribution that contains many useful data science librari
 	  **_Option 1:_** Clone the repository using [git](https://git-scm.com/downloads) (recommended to easily pull new updates)
 
 	  ```bash
-	  git clone https://github.com/GUC-DM/w2024.git
+	  git clone https://github.com/GUC-DM/W2025.git
 	  ```
 
 	  Pulling new notebooks/material/updates is then made easy by just calling `git pull` in a terminal inside the repository folder
